@@ -1,0 +1,24 @@
+{ "genres":
+  [
+    {
+      "id": 1,
+      "genre": "Action"
+    },
+    {
+      "id": 2,
+      "genre": "Horror"
+    },
+    {
+      "id": 3,
+      "genre": "Thriller"
+    },
+    {
+      "id": 4,
+      "genre": "Comedy"
+    },
+    {
+      "id": 5,
+      "genre": "Documentary"
+    }
+  ]
+}

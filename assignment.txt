@@ -1,0 +1,15 @@
+TODO
+****
+
+Build a REST API for a video renting firm
+=========================================
+- Renting firm: Vidly
+- Endpoint URL : http://vidly.com/api/genres
+- Expected CRUD functionality:
+  . Create (POST) Requests
+  . READ (GET) Requests
+  . Update (PUT) Requests
+  . DELETE (DELETE) Requests
+
+  . Validation must be active through the "joi" npm-package
+
